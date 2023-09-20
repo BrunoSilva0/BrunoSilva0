@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoSilva0&show_icons=true&count_private=true&hide_border=true&theme=slateorange" alt="Bruno Silva github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSilva0&layout=compact&hide_border=true&theme=slateorange" />
+  <img height = "192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSilva0&show_icons=true&theme=slateorange&count_private=true"/>
 </div>
 
 ### Habilidades Principais:
