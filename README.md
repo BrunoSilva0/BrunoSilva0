@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Bruno+Silva;Tenho+18+Anos;Sou+do+Brasil,+SP;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoSilva0&show_icons=true&count_private=true&hide_border=true&theme=slateorange" alt="Bruno Silva github stats" /> 
+  <img width="49%" height="192em" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoSilva0&show_icons=true&count_private=true&hide_border=true&theme=slateorange" alt="Bruno Silva github stats" /> 
   <img height = "192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSilva0&show_icons=true&theme=slateorange&count_private=true"/>
 </div>
 
