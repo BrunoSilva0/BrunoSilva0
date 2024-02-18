@@ -15,7 +15,7 @@
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/Intellij%20Idea-0D1117?logo=intellij-idea&style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Outros Conhecimentos:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
